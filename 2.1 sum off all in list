@@ -1,0 +1,7 @@
+list = [2,5,7,8,9,22]
+a=0
+
+for i in list:
+    
+    a = a+i
+print(a)
